@@ -1,0 +1,37 @@
+_repo: Mes-Prisons_69561
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Reynard, Francisque
+    gutenberg_agent_id: '55317'
+    url: http://www.gutenberg.org/2009/agents/55317
+creator:
+  author:
+    agent_name: Pellico, Silvio
+    birthdate: 1789
+    deathdate: 1854
+    gutenberg_agent_id: '1025'
+    url: http://www.gutenberg.org/2009/agents/1025
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Silvio_Pellico
+    - https://it.wikipedia.org/wiki/Silvio_Pellico
+description: ''
+gutenberg_issued: '2022-12-16'
+identifiers:
+  gutenberg: '69561'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k8630363f
+pgterms:marc905: 20220125124614pellico
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: 'France: Flammarion,1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mes Prisons
+url: http://www.gutenberg.org/ebooks/69561
