@@ -5,6 +5,9 @@ contributor:
     agent_name: Reynard, Francisque
     gutenberg_agent_id: '55317'
     url: http://www.gutenberg.org/2009/agents/55317
+covers:
+- cover_type: archival
+  image_path: 69561-h/images/cover.jpg
 creator:
   author:
     agent_name: Pellico, Silvio
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Silvio_Pellico
     - https://it.wikipedia.org/wiki/Silvio_Pellico
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69561#Mes-Prisons
 gutenberg_issued: '2022-12-16'
 identifiers:
   gutenberg: '69561'
